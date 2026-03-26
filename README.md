@@ -1,16 +1,16 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Channel+YouTube+@km7ujuh" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Channel+YouTube+@shoee_banjarmasin" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=K+I+P+L+Y+M+A+C+H+O" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=shopeebjm" />
 </p>
 
 <p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
 
 <h2 align="center">
  
-[![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
+[![Powered By:shopeebjm](https://img.shields.io/badge/PoweredBy:shopeebjm-7%2B-blue.svg?style=flat)](http://shopee.co.id/infinixnote40bjm)
 
 # confighttpcustom
 <h2 align="center">
@@ -20,16 +20,6 @@
 </a>
 
 [![Android](https://img.shields.io/badge/Android-15-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
-
-# Aplikasi Untuk Internetan Gratis Kartu Telkomsel
-
-<h2 align="center">
-
-Klik Dibawah Ini
-
-👇👇
- 
-[![Xhyper Tunnel Pro](https://img.shields.io/badge/XhyperTunnelPro-100-yellow.svg?style=flat)](https://sfile.mobi/7SMATlKVVem)
 
 # Kumpulan Payload All Operator Untuk Internet Gratis:
 <h2 align="center">
@@ -43,24 +33,25 @@ Klik Disini
 # Kumpulan Config Unlock SSH
 
 Klik Disini👉
-[![Config Axis Game](https://img.shields.io/badge/ConfigAxisGame-7%2B-blue.svg?style=flat)](https://youtu.be/9TITdO2-UfU)
+[![Config Axis Game](https://img.shields.io/badge/AxisGame-7%2B-blue.svg?style=flat)](https://youtu.be/9TITdO2-UfU)
 
-Klik Disini👉
-[![Config Telkomsel Edukasi Unlock SSH](https://img.shields.io/badge/ConfigTelkomselEdukasiUnlockSSH-9%2B-blue.svg?style=flat)](https://youtu.be/OQJfKepO4hU)
+Klik Disini
+[![Telkomsel Edukasi Unlock SSH](https://img.shields.io/badge/TelkomselEdukasiUnlockSSH-9%2B-blue.svg?style=flat)](https://youtu.be/OQJfKepO4hU)
 
-Klik Disini👉
-[![Config Indosat Edukasi Unlock SSH](https://img.shields.io/badge/ConfigIndosatEdukasiUnlockSSH-11%2B-blue.svg?style=flat)](https://youtu.be/HBC9i9z75QA)
+Klik Disini
+[![Indosat Edukasi Unlock SSH](https://img.shields.io/badge/IndosatEdukasiUnlockSSH-11%2B-blue.svg?style=flat)](https://youtu.be/HBC9i9z75QA)
 
-Klik Disini👉
-[![Config Axis Edukasi Unlock SSH](https://img.shields.io/badge/ConfigAxisEdukasiUnlockSSH-17%2B-blue.svg?style=flat)](https://youtu.be/d6chn5vTzZE)
+Klik Disini
+[![Axis Edukasi Unlock SSH](https://img.shields.io/badge/AxisEdukasiUnlockSSH-17%2B-blue.svg?style=flat)](https://youtu.be/d6chn5vTzZE)
 
-Klik Disini👉
-[![Config XL Edukasi Unlock SSH](https://img.shields.io/badge/ConfigXLEdukasiUnlockSSH-33%2B-blue.svg?style=flat)](https://youtu.be/ljJVO5bPtYg)
+Klik Disini
+[![XL Edukasi Unlock SSH](https://img.shields.io/badge/XLEdukasiUnlockSSH-33%2B-blue.svg?style=flat)](https://youtu.be/ljJVO5bPtYg)
 
-Klik Disini👉
-[![Config Sushiroll Unlock SSH](https://img.shields.io/badge/ConfigSushirollUnlockSSH-15%2B-blue.svg?style=flat)](https://youtu.be/R-rBfhBbm1M)
+Klik Disini
+[![Sushiroll Unlock SSH](https://img.shields.io/badge/SushirollUnlockSSH-15%2B-blue.svg?style=flat)](https://youtu.be/R-rBfhBbm1M)
 
-Klik Disini👉[![Config Telkomsel BYU Opok Unlock SSH](https://img.shields.io/badge/ConfigTelkomselByuOpokUnlockSSH-9%2B-blue.svg?style=flat)](https://youtu.be/u8Y9cLIhTLs)
+Klik Disini
+[![Telkomsel BYU Opok Unlock SSH](https://img.shields.io/badge/TelkomselByuOpokUnlockSSH-9%2B-blue.svg?style=flat)](https://youtu.be/u8Y9cLIhTLs)
 
 # Kumpulan Bug All Operator Mei 2024
 
@@ -119,46 +110,27 @@ Klik Disini👉
 
 <h2 align="center">
 
-[![Youtube Km7ujuh](https://img.shields.io/badge/YouTubeKm7ujuh-200%2B-yellow.svg?style=flat)](https://www.youtube.com/@km7ujuh)
+[![Youtube shopee_banjarmasin](https://img.shields.io/badge/YouTubeshopee_banjarmasin-200%2B-yellow.svg?style=flat)](https://www.youtube.com/@shopee_banjarmasin)
 
+[![Instagram shopee_banjarmasin](https://img.shields.io/badge/InstagramKm7ujuh-65%2B-yellow.svg?style=flat)](https://www.instagram.com/shopee_banjarmasin)
 
-[![Youtube Pemurus Dalam](https://img.shields.io/badge/YouTubePemurusDalam-7%2B-yellow.svg?style=flat)](https://www.youtube.com/@pemurusdalam)
-
-[![YouTube Hijrah Mebel Banjarmasin](https://img.shields.io/badge/YouTubeHijrahMebelBanjarmasin-6%2B-yellow.svg?style=flat)](https://www.youtube.com/@hijrahmebelbanjarmasin)
-
-[![Instagram Km7ujuh](https://img.shields.io/badge/InstagramKm7ujuh-65%2B-yellow.svg?style=flat)](https://www.instagram.com/km7ujuh)
-
-[![Instagram Kiplymacho](https://img.shields.io/badge/InstagramKiplymacho-2K%2B-yellow.svg?style=flat)](https://www.instagram.com/kiplymacho)
+[![Instagram shopee_banjarmasn](https://img.shields.io/badge/InstagramKiplymacho-2K%2B-yellow.svg?style=flat)](https://www.instagram.com/shopee_banjarmasin)
 
 [![Twitter KipyMacho](https://img.shields.io/badge/TwitterKiplyMacho-350%2B-yellow.svg?style=flat)](https://www.twitter.com/kiplymacho)
   
-[![Tiktok KiplyMacho](https://img.shields.io/badge/TiktokKiplyMacho-80%2B-yellow.svg?style=flat)](https://www.tiktok.com/@kiplymacho)
+[![Tiktok Shopeebjm](https://img.shields.io/badge/TiktokKiplyMacho-80%2B-yellow.svg?style=flat)](https://www.tiktok.com/@shopee.bjm)
 
-[![Facebook KiplyMacho](https://img.shields.io/badge/FacebookKiplyMacho-199%2B-yellow.svg?style=flat)](https://www.facebook.com/g1g1n1n0)
-
-[![Halaman Facebook](https://img.shields.io/badge/HalamanFacebook-7K%2B-yellow.svg?style=flat)](https://www.facebook.com/httpcustomkiplymacho)
-  
-[![Halaman Facebook](https://img.shields.io/badge/HalamanFacebook-111%2B-yellow.svg?style=flat)](https://www.facebook.com/profile.php?id=100063772334951)
-
-[![Halaman Facebook](https://img.shields.io/badge/HalamanFacebook-99%2B-yellow.svg?style=flat)](https://www.facebook.com/profile.php?id=100088881661437)
-  
-[![Clickasnap](https://img.shields.io/badge/Clickasnap-9%2B-yellow.svg?style=flat)](https://www.clickasnap.com/kiplymacho)
-  
-[![Github KiplyMacho](https://img.shields.io/badge/GithubKiplyMacho-7%2B-yellow.svg?style=flat)](https://github.com/kiplymacho)
+[![Facebook shopee.bjm](https://img.shields.io/badge/FacebookKiplyMacho-199%2B-yellow.svg?style=flat)](https://www.facebook.com/shopee.bjm)
 
 [![Telegram](https://img.shields.io/badge/Telegram-77%2B-yellow.svg?style=flat)](http://t.me/confighttpcustomkiplymacho)
-  
-[![Linktr.ee](https://img.shields.io/badge/Linktr.ee-999%2B-yellow.svg?style=flat)](https://linktr.ee/kiplymacho)
-  
-[![SnackVideo](https://img.shields.io/badge/SnackVideo-800%2B-yellow.svg?style=flat)](https://sck.io/u/@giginino/M7jpGo4O)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-80%2B-yellow.svg?style=flat)](http://www.linkedin.com/in/kiplymacho)
 
 </p>
 <div height='45' align="center">
 <h2>Contact me: <br>
-<a href="https://github.com/kiplymacho"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
-<a href="https://facebook.com/kiplymachobanjar"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
+<a href="https://github.com/shopeebjm"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
+<a href="https://facebook.com/shopee.bjm"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
 
 <a href="https://paypal.me/kiplymacho"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
 </h2>
@@ -171,12 +143,14 @@ Klik Disini👉
 
 ~_Follow_~
 
-[![Halaman Facebook](https://img.shields.io/badge/HalamanFacebook-200%2B-yellow.svg?style=flat)](https://www.facebook.com/httpcustomkiplymacho/)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-400%2B-yellow.svg?style=flat)](https://wa.me/6285182393001)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-400%2B-yellow.svg?style=flat)](https://wa.me/6285751032225)
 
 ~_Subscribe_~
 
-[![YouTube](https://img.shields.io/badge/YouTube-200%2B-yellow.svg?style=flat)](https://www.youtube.com/@km7ujuh)
+[![YouTube](https://img.shields.io/badge/YouTube-200%2B-yellow.svg?style=flat)](https://www.youtube.com/@shopee_banjarmasin)
 
-[![instagram](https://img.shields.io/badge/Instagram-2K%2B-yellow.svg?style=flat)](https://instagram.com/kiplymacho)
+[![instagram](https://img.shields.io/badge/Instagram-2K%2B-yellow.svg?style=flat)](https://instagram.com/shopee_banjarmasin)
+
+[![TikTok](https://img.shields.io/badge/TikTok-2K%2B-yellow.svg?style=flat)](https://tiktok.com/shopee.bjm)

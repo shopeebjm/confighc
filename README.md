@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Channel+YouTube+@shopee_banjarmasin" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=YouTube+@shopee_banjarmasin" />
 </p>
 
 <p align="center">
@@ -153,4 +153,4 @@ Klik Disini👉
 
 [![instagram](https://img.shields.io/badge/Instagram-2K%2B-yellow.svg?style=flat)](https://instagram.com/shopee_banjarmasin)
 
-[![TikTok](https://img.shields.io/badge/TikTok-2K%2B-yellow.svg?style=flat)](https://tiktok.com/shopee.bjm)
+[![TikTok](https://img.shields.io/badge/TikTok-2K%2B-yellow.svg?style=flat)](https://tiktok.com/@shopee.bjm)

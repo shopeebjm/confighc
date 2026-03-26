@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Channel+YouTube+@shoee_banjarmasin" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Channel+YouTube+@shopee_banjarmasin" />
 </p>
 
 <p align="center">
@@ -32,8 +32,8 @@ Klik Disini
 
 # Kumpulan Config Unlock SSH
 
-Klik Disini👉
-[![Config Axis Game](https://img.shields.io/badge/AxisGame-7%2B-blue.svg?style=flat)](https://youtu.be/9TITdO2-UfU)
+Klik Disini
+[![Axis Game](https://img.shields.io/badge/AxisGame-7%2B-blue.svg?style=flat)](https://youtu.be/9TITdO2-UfU)
 
 Klik Disini
 [![Telkomsel Edukasi Unlock SSH](https://img.shields.io/badge/TelkomselEdukasiUnlockSSH-9%2B-blue.svg?style=flat)](https://youtu.be/OQJfKepO4hU)
@@ -136,8 +136,8 @@ Klik Disini👉
 </h2>
 </div>
 <h2 align="center">
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiplymacho&layout=compact&theme=dark">
-<img height=150 src="https://github-readme-stats.vercel.app/api?username=kiplymacho&count_private=true&show_icons=true&theme=dark">
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shopeebjm&layout=compact&theme=dark">
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=shopeebjm&count_private=true&show_icons=true&theme=dark">
  
 <h2 align="center">
 

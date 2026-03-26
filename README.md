@@ -136,8 +136,8 @@ Klik Disini👉
 </h2>
 </div>
 <h2 align="center">
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shopeebjm&layout=compact&theme=dark">
-<img height=150 src="https://github-readme-stats.vercel.app/api?username=shopeebjm&count_private=true&show_icons=true&theme=dark">
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiplymacho&layout=compact&theme=dark">
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=kiplymacho&count_private=true&show_icons=true&theme=dark">
  
 <h2 align="center">
 

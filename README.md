@@ -110,17 +110,15 @@ Klik Disini👉
 
 <h2 align="center">
 
-[![Youtube shopee_banjarmasin](https://img.shields.io/badge/YouTubeshopee_banjarmasin-200%2B-yellow.svg?style=flat)](https://www.youtube.com/@shopee_banjarmasin)
+[![Youtube shopee_banjarmasin](https://img.shields.io/badge/YouTube-200%2B-yellow.svg?style=flat)](https://www.youtube.com/@shopee_banjarmasin)
 
-[![Instagram shopee_banjarmasin](https://img.shields.io/badge/InstagramKm7ujuh-65%2B-yellow.svg?style=flat)](https://www.instagram.com/shopee_banjarmasin)
+[![Instagram shopee_banjarmasn](https://img.shields.io/badge/Instagram-2K%2B-yellow.svg?style=flat)](https://www.instagram.com/shopee_banjarmasin)
 
-[![Instagram shopee_banjarmasn](https://img.shields.io/badge/InstagramKiplymacho-2K%2B-yellow.svg?style=flat)](https://www.instagram.com/shopee_banjarmasin)
-
-[![Twitter KipyMacho](https://img.shields.io/badge/TwitterKiplyMacho-350%2B-yellow.svg?style=flat)](https://www.twitter.com/kiplymacho)
+[![Twitter KipyMacho](https://img.shields.io/badge/Twitter-350%2B-yellow.svg?style=flat)](https://www.twitter.com/kiplymacho)
   
-[![Tiktok Shopeebjm](https://img.shields.io/badge/TiktokKiplyMacho-80%2B-yellow.svg?style=flat)](https://www.tiktok.com/@shopee.bjm)
+[![Tiktok Shopeebjm](https://img.shields.io/badge/TikTok-80%2B-yellow.svg?style=flat)](https://www.tiktok.com/@shopee.bjm)
 
-[![Facebook shopee.bjm](https://img.shields.io/badge/FacebookKiplyMacho-199%2B-yellow.svg?style=flat)](https://www.facebook.com/shopee.bjm)
+[![Facebook shopee.bjm](https://img.shields.io/badge/Facebook-199%2B-yellow.svg?style=flat)](https://www.facebook.com/shopee.bjm)
 
 [![Telegram](https://img.shields.io/badge/Telegram-77%2B-yellow.svg?style=flat)](http://t.me/confighttpcustomkiplymacho)
 
@@ -136,8 +134,8 @@ Klik Disini👉
 </h2>
 </div>
 <h2 align="center">
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiplymacho&layout=compact&theme=dark">
-<img height=150 src="https://github-readme-stats.vercel.app/api?username=kiplymacho&count_private=true&show_icons=true&theme=dark">
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shopeebjm&layout=compact&theme=dark">
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=shopeebjm&count_private=true&show_icons=true&theme=dark">
  
 <h2 align="center">
 

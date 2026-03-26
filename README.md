@@ -133,15 +133,10 @@ Klik Disini👉
 <a href="https://paypal.me/kiplymacho"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
 </h2>
 </div>
-<h2 align="center">
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shopeebjm&layout=compact&theme=dark">
-<img height=150 src="https://github-readme-stats.vercel.app/api?username=shopeebjm&count_private=true&show_icons=true&theme=dark">
  
 <h2 align="center">
 
 ~_Follow_~
-
-
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-400%2B-yellow.svg?style=flat)](https://wa.me/6285751032225)
 

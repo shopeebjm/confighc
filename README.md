@@ -36,25 +36,25 @@ Klik Disini
 [![Axis 0p0k Unlock SSH](https://img.shields.io/badge/Axis0p0k-17%2B-blue.svg?style=flat)](https://sfile.co/aJZuJEZdF6O)
 
 Klik Disini
-[![Axis Game](https://img.shields.io/badge/AxisGame-7%2B-blue.svg?style=flat)](https://youtu.be/9TITdO2-UfU)
+[![Axis Game Unlock SSH](https://img.shields.io/badge/AxisGameUnlockSSH-7%2B-blue.svg?style=flat)](https://sfile.co/avduBknlf2I)
 
 Klik Disini
-[![Telkomsel Edukasi Unlock SSH](https://img.shields.io/badge/TelkomselEdukasiUnlockSSH-9%2B-blue.svg?style=flat)](https://youtu.be/OQJfKepO4hU)
+[![Telkomsel Edukasi Unlock SSH](https://img.shields.io/badge/TelkomselEdukasiUnlockSSH-9%2B-blue.svg?style=flat)](https://sfile.co/58NrCVElZY6)
 
 Klik Disini
-[![Indosat Edukasi Unlock SSH](https://img.shields.io/badge/IndosatEdukasiUnlockSSH-11%2B-blue.svg?style=flat)](https://youtu.be/HBC9i9z75QA)
+[![Indosat Edukasi Unlock SSH](https://img.shields.io/badge/IndosatEdukasiUnlockSSH-11%2B-blue.svg?style=flat)](https://sfile.co/1NXpMUPqPGx)
 
 Klik Disini
 [![Axis Edukasi Unlock SSH](https://img.shields.io/badge/AxisEdukasiUnlockSSH-17%2B-blue.svg?style=flat)](https://youtu.be/d6chn5vTzZE)
 
 Klik Disini
-[![XL Edukasi Unlock SSH](https://img.shields.io/badge/XLEdukasiUnlockSSH-33%2B-blue.svg?style=flat)](https://youtu.be/ljJVO5bPtYg)
+[![XL Edukasi Unlock SSH](https://img.shields.io/badge/XLEdukasiUnlockSSH-33%2B-blue.svg?style=flat)](https://sfile.co/8XbtK8riUM3)
 
 Klik Disini
-[![Sushiroll Unlock SSH](https://img.shields.io/badge/SushirollUnlockSSH-15%2B-blue.svg?style=flat)](https://youtu.be/R-rBfhBbm1M)
+[![Sushiroll Unlock SSH](https://img.shields.io/badge/SushirollUnlockSSH-15%2B-blue.svg?style=flat)](https://sfile.co/9Fvu8qBUfmL)
 
 Klik Disini
-[![Telkomsel BYU Opok Unlock SSH](https://img.shields.io/badge/TelkomselByuOpokUnlockSSH-9%2B-blue.svg?style=flat)](https://youtu.be/u8Y9cLIhTLs)
+[![Telkomsel BYU Edukasi Unlock SSH](https://img.shields.io/badge/TelkomselByuOpokUnlockSSH-9%2B-blue.svg?style=flat)](https://sfile.co/bsjv6IKw7u7)
 
 # Kumpulan Bug All Operator Mei 2024
 

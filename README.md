@@ -15,7 +15,7 @@
 # config http custom
 <h2 align="center">
  
-Unduh Aplikasi Http Custom 
+Aplikasi Http Custom 
 
  👇
  

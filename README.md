@@ -54,7 +54,7 @@ Klik Disini
 [![Sushiroll Unlock SSH](https://img.shields.io/badge/SushirollUnlockSSH-15%2B-blue.svg?style=flat)](https://sfile.co/9Fvu8qBUfmL)
 
 Klik Disini
-[![Telkomsel BYU Edukasi Unlock SSH](https://img.shields.io/badge/TelkomselByuOpokUnlockSSH-9%2B-blue.svg?style=flat)](https://sfile.co/bsjv6IKw7u7)
+[![Telkomsel BYU Edukasi Unlock SSH](https://img.shields.io/badge/TelkomselByuEdukasiUnlockSSH-9%2B-blue.svg?style=flat)](https://sfile.co/bsjv6IKw7u7)
 
 # Kumpulan Bug All Operator Mei 2024
 

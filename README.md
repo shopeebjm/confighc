@@ -120,13 +120,13 @@ Klik Disini👉
 
 [![Youtube shopee_banjarmasin](https://img.shields.io/badge/YouTube-200%2B-blue.svg?style=flat)](https://www.youtube.com/@shopee_banjarmasin)
 
-[![Instagram shopee_banjarmasn](https://img.shields.io/badge/Instagram-2K%2B-green.svg?style=flat)](https://www.instagram.com/shopee_banjarmasin)
+[![Instagram](https://img.shields.io/badge/Instagram-2K%2B-green.svg?style=flat)](https://www.instagram.com/shopee_banjarmasin)
 
-[![Twitter KipyMacho](https://img.shields.io/badge/Twitter-350%2B-pink.svg?style=flat)](https://www.twitter.com/shopeebjm)
+[![Twitter](https://img.shields.io/badge/Twitter-350%2B-pink.svg?style=flat)](https://www.twitter.com/shopeebjm)
   
-[![Tiktok Shopeebjm](https://img.shields.io/badge/TikTok-80%2B-purple.svg?style=flat)](https://www.tiktok.com/@shopee.bjm)
+[![Tiktok](https://img.shields.io/badge/TikTok-80%2B-purple.svg?style=flat)](https://www.tiktok.com/@shopee.bjm)
 
-[![Facebook shopee.bjm](https://img.shields.io/badge/Facebook-199%2B-yellow.svg?style=flat)](https://www.facebook.com/shopee.bjm)
+[![Facebook](https://img.shields.io/badge/Facebook-199%2B-yellow.svg?style=flat)](https://www.facebook.com/shopee.bjm)
 
 [![Telegram](https://img.shields.io/badge/Telegram-77%2B-black.svg?style=flat)](http://t.me/shopeebjm)
 

@@ -32,31 +32,31 @@ Klik Disini
 
 # Config Http Custom Unlock SSH
 
-Klik Disini
+Klik Disini👉
 [![Axis 0p0k](https://img.shields.io/badge/Axis0p0k-17%2B-blue.svg?style=flat)](https://sfile.co/aJZuJEZdF6O)
 
-Klik Disini
+Klik Disini👉
 [![Axis Game](https://img.shields.io/badge/AxisGame-7%2B-blue.svg?style=flat)](https://sfile.co/avduBknlf2I)
 
-Klik Disini
+Klik Disini👉
 [![Telkomsel Edukasi](https://img.shields.io/badge/TselEdukasi-9%2B-blue.svg?style=flat)](https://sfile.co/58NrCVElZY6)
 
-Klik Disini
+Klik Disini👉
 [![Indosat Edukasi](https://img.shields.io/badge/IndosatEdukasi-11%2B-blue.svg?style=flat)](https://sfile.co/1NXpMUPqPGx)
 
-Klik Disini
+Klik Disini👉
 [![Axis Edukasi](https://img.shields.io/badge/AxisEdukasi-17%2B-blue.svg?style=flat)](https://youtu.be/d6chn5vTzZE)
 
-Klik Disini
+Klik Disini👉
 [![XL Edukasi](https://img.shields.io/badge/XLEdukasi-33%2B-blue.svg?style=flat)](https://sfile.co/8XbtK8riUM3)
 
-Klik Disini
+Klik Disini👉
 [![Sushiroll](https://img.shields.io/badge/Sushiroll-15%2B-blue.svg?style=flat)](https://sfile.co/9Fvu8qBUfmL)
 
-Klik Disini
+Klik Disini👉
 [![Telkomsel BYU Edukasi](https://img.shields.io/badge/TselByuEdukasi-9%2B-blue.svg?style=flat)](https://sfile.co/bsjv6IKw7u7)
 
-Klik Disini
+Klik Disini👉
 [![Tsel Byu 0p0k](https://img.shields.io/badge/TselByu0p0k-1%2B-blue.svg?style=flat)](https://sfile.co/zRULXeA2nf3)
 
 # Kumpulan Bug All Operator

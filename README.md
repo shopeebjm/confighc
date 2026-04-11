@@ -116,21 +116,21 @@ Klik Disini👉
 
 <h2 align="center">
 
-[![shopee](https://img.shields.io/badge/shopee-200%2B-yellow.svg?style=flat)](https://shopee.co.id/infinixnote40bjm)
+[![shopee](https://img.shields.io/badge/shopee-200%2B-red.svg?style=flat)](https://shopee.co.id/infinixnote40bjm)
 
-[![Youtube shopee_banjarmasin](https://img.shields.io/badge/YouTube-200%2B-yellow.svg?style=flat)](https://www.youtube.com/@shopee_banjarmasin)
+[![Youtube shopee_banjarmasin](https://img.shields.io/badge/YouTube-200%2B-blue.svg?style=flat)](https://www.youtube.com/@shopee_banjarmasin)
 
-[![Instagram shopee_banjarmasn](https://img.shields.io/badge/Instagram-2K%2B-yellow.svg?style=flat)](https://www.instagram.com/shopee_banjarmasin)
+[![Instagram shopee_banjarmasn](https://img.shields.io/badge/Instagram-2K%2B-green.svg?style=flat)](https://www.instagram.com/shopee_banjarmasin)
 
-[![Twitter KipyMacho](https://img.shields.io/badge/Twitter-350%2B-yellow.svg?style=flat)](https://www.twitter.com/shopeebjm)
+[![Twitter KipyMacho](https://img.shields.io/badge/Twitter-350%2B-gay.svg?style=flat)](https://www.twitter.com/shopeebjm)
   
-[![Tiktok Shopeebjm](https://img.shields.io/badge/TikTok-80%2B-yellow.svg?style=flat)](https://www.tiktok.com/@shopee.bjm)
+[![Tiktok Shopeebjm](https://img.shields.io/badge/TikTok-80%2B-purple.svg?style=flat)](https://www.tiktok.com/@shopee.bjm)
 
-[![Facebook shopee.bjm](https://img.shields.io/badge/Facebook-199%2B-yellow.svg?style=flat)](https://www.facebook.com/shopee.bjm)
+[![Facebook shopee.bjm](https://img.shields.io/badge/Facebook-199%2B-sky.svg?style=flat)](https://www.facebook.com/shopee.bjm)
 
-[![Telegram](https://img.shields.io/badge/Telegram-77%2B-yellow.svg?style=flat)](http://t.me/shopeebjm)
+[![Telegram](https://img.shields.io/badge/Telegram-77%2B-black.svg?style=flat)](http://t.me/shopeebjm)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-80%2B-yellow.svg?style=flat)](http://www.linkedin.com/in/kiplymacho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-80%2B-white.svg?style=flat)](http://www.linkedin.com/in/kiplymacho)
 
 ## Connect With US :
 

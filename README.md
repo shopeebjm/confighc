@@ -56,7 +56,7 @@ Klik Disini
 Klik Disini
 [![Telkomsel BYU Edukasi Unlock SSH](https://img.shields.io/badge/TelkomselByuEdukasiUnlockSSH-9%2B-blue.svg?style=flat)](https://sfile.co/bsjv6IKw7u7)
 
-# Kumpulan Bug All Operator Mei 2024
+# Kumpulan Bug All Operator
 
 Klik Disini👉
 [![Bug Telkomsel 0p0k](https://img.shields.io/badge/BugTelkomsel0p0k-11%2B-yellow.svg?style=flat)](https://sfile.mobi/bsoBOcDQqs7)

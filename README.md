@@ -62,13 +62,13 @@ Klik Disini👉
 # Kumpulan Bug All Operator
 
 Klik Disini👉
-[![Bug Telkomsel 0p0k](https://img.shields.io/badge/BugTelkomsel0p0k-11%2B-yellow.svg?style=flat)](https://sfile.mobi/bsoBOcDQqs7)
+[![Bug Tsel 0p0k](https://img.shields.io/badge/BugTsel0p0k-11%2B-yellow.svg?style=flat)](https://sfile.mobi/bsoBOcDQqs7)
 
 Klik Disini👉
-[![Bug Telkomsel iLmuPedia](https://img.shields.io/badge/BugTelkomseliLmuOedia-13%2B-yellow.svg?style=flat)](https://sfile.mobi/1zgwntqWziZ)
+[![Bug Telkomsel iLmuPedia](https://img.shields.io/badge/BugTseliLmuPedia-13%2B-yellow.svg?style=flat)](https://sfile.mobi/1zgwntqWziZ)
 
 Klik Disini👉
-[![Bug Telkomsel Game](https://img.shields.io/badge/BugTelkomselGame-17%2B-yellow.svg?style=flat)](https://sfile.mobi/aK4BrQxzTaX)
+[![Bug Tsel Game](https://img.shields.io/badge/BugTselGame-17%2B-yellow.svg?style=flat)](https://sfile.mobi/aK4BrQxzTaX)
 
 Klik Disini👉
 [![Bug XL YouTube](https://img.shields.io/badge/BugXLYouTube-15%2B-yellow.svg?style=flat)](https://sfile.mobi/5CqyCF0fXqN)

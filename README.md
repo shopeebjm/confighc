@@ -12,7 +12,7 @@
  
 [![Powered By:shopeebjm](https://img.shields.io/badge/PoweredBy:shopeebjm-7%2B-blue.svg?style=flat)](http://shopee.co.id/infinixnote40bjm)
 
-# config httpcustom
+# config http custom
 <h2 align="center">
 
 <a href="https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom">

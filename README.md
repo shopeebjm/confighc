@@ -116,7 +116,7 @@ Klik Disini👉
 Klik Disini👉
 [![Bug 0p0k Three](https://img.shields.io/badge/Bug0p0kThree-3%2B-yellow.svg?style=flat)](https://sfile.mobi/7pezDASeycJ)
 
-# Like Share Comment And Subscribe
+# Social Media
 
 <h2 align="center">
 
@@ -136,7 +136,7 @@ Klik Disini👉
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-80%2B-white.svg?style=flat)](http://www.linkedin.com/in/kiplymacho)
 
-## Connect With US :
+## Follow Me :
 
 [![Messenger](https://img.shields.io/badge/Messengers-blue?style=for-the-badge&logo=messenger)](https://fb.me/shopee.bjm)
 <a href="https://tiktok.com/@shopee.bjm"><img title="TikTok" src="https://img.shields.io/badge/-black?style=for-the-badge&logo=Tiktok"></a>

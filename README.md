@@ -122,11 +122,11 @@ Klik Disini👉
 
 [![Instagram shopee_banjarmasn](https://img.shields.io/badge/Instagram-2K%2B-green.svg?style=flat)](https://www.instagram.com/shopee_banjarmasin)
 
-[![Twitter KipyMacho](https://img.shields.io/badge/Twitter-350%2B-gay.svg?style=flat)](https://www.twitter.com/shopeebjm)
+[![Twitter KipyMacho](https://img.shields.io/badge/Twitter-350%2B-pink.svg?style=flat)](https://www.twitter.com/shopeebjm)
   
 [![Tiktok Shopeebjm](https://img.shields.io/badge/TikTok-80%2B-purple.svg?style=flat)](https://www.tiktok.com/@shopee.bjm)
 
-[![Facebook shopee.bjm](https://img.shields.io/badge/Facebook-199%2B-sky.svg?style=flat)](https://www.facebook.com/shopee.bjm)
+[![Facebook shopee.bjm](https://img.shields.io/badge/Facebook-199%2B-yellow.svg?style=flat)](https://www.facebook.com/shopee.bjm)
 
 [![Telegram](https://img.shields.io/badge/Telegram-77%2B-black.svg?style=flat)](http://t.me/shopeebjm)
 

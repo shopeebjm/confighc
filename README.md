@@ -56,6 +56,8 @@ Klik Disini
 Klik Disini
 [![Telkomsel BYU Edukasi Unlock SSH](https://img.shields.io/badge/TelkomselByuEdukasiUnlockSSH-9%2B-blue.svg?style=flat)](https://sfile.co/bsjv6IKw7u7)
 
+[![Tsel Byu 0p0k](https://img.shields.io/badge/TselByu0p0k-1%2B-blue.svg?style=flat)](https://sfile.co/8Fi7WwJrpQX)
+
 # Kumpulan Bug All Operator
 
 Klik Disini👉

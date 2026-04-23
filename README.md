@@ -21,9 +21,8 @@ Aplikasi Http Custom
  👇
  
  <a
-  
 href="https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom">
-<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="170" height="70" />
+<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="150" height="50" />
  </a>
 
 [![Android](https://img.shields.io/badge/Android-15-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)

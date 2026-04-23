@@ -13,13 +13,14 @@
 [![Powered By:shopeebjm](https://img.shields.io/badge/PoweredBy:shopeebjm-7%2B-blue.svg?style=flat)](http://shopee.co.id/infinixnote40bjm)
 
 # config http custom
-<h2 align="center">
+<p2 align="center">
  
 Aplikasi Http Custom 
 
  👇
  
-<a/> href="https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom">
+<a
+href="https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom">
 <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="165" height="64" />
 </a>
 
